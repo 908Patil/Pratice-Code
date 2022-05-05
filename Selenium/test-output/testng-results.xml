@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="147961" started-at="2022-01-02T23:31:50 IST" finished-at="2022-01-02T23:34:18 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="147961" started-at="2022-01-02T23:31:50 IST" finished-at="2022-01-02T23:34:18 IST">
+      <class name="TestNG2.Example3_Parallel2">
+        <test-method status="PASS" signature="Facebook()[pri:0, instance:TestNG2.Example3_Parallel2@4d50efb8]" name="Facebook" duration-ms="147554" started-at="2022-01-02T23:31:50 IST" finished-at="2022-01-02T23:34:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+      </class> <!-- TestNG2.Example3_Parallel2 -->
+      <class name="TestNG2.Example2_Parallel1">
+        <test-method status="PASS" signature="KiteOpen()[pri:0, instance:TestNG2.Example2_Parallel1@36b4cef0]" name="KiteOpen" duration-ms="147637" started-at="2022-01-02T23:31:50 IST" finished-at="2022-01-02T23:34:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KiteOpen -->
+      </class> <!-- TestNG2.Example2_Parallel1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
